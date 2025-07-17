@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378216443259",
+    "project_id": "fm-sas-ragdoll-fly-evolution",
+    "storage_bucket": "fm-sas-ragdoll-fly-evolution.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378216443259:android:f03e5dcfec12bc3117a1de",
+        "android_client_info": {
+          "package_name": "jp.fourm.ragdollflyevolution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgr8V9UFvdD-OSs5XPYVTh3xHFFKk1hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
